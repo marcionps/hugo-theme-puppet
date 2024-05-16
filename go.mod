@@ -1,3 +1,3 @@
-module github.com/roninro/hugo-theme-puppet
+module github.com/marcionps/hugo-theme-puppet
 
 go 1.19
